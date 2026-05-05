@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@theme {
+  /* Dizaynga mos ranglar (rasmdagi kabi binafsha va olovrang) */
+  --color-primary: #6366f1;
+  --color-secondary: #f97316;
+  --font-main: "Inter", sans-serif;
+}
+
+/* 
+.landingimg{
+    background-attachment: scroll;
+    background-color: #fbf8ff;
+    background-image: url(/svg/bg-landing.svg);
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 0;
+    display: block;
+    left: 0;
+    opacity: .7;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -10;
+} */
